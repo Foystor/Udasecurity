@@ -17,7 +17,7 @@ This application tracks the status of sensors, monitors camera input, and change
 
 ## Demo
 
-
+https://user-images.githubusercontent.com/74621252/187672329-d7feda88-96e7-4592-8aa4-c5271324d2cc.mov
 
 ## Goals
 
